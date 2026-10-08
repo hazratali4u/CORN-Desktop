@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AppSettings>
+  <Server>65.1.232.73</Server>
+  <DBName>CORNDESK</DBName>
+  <DBUser>app</DBUser>
+  <DBPassword>/pJ1vzewiADzVmWyG6R2Pg==</DBPassword>
+  <DBAuthentication>MSDE</DBAuthentication>
+  <svr>13.235.80.157</svr>
+  <svrdb>CORNDesk</svrdb>
+  <usr>app</usr>
+  <pwd>/pJ1vzewiADzVmWyG6R2Pg==</pwd>
+</AppSettings>

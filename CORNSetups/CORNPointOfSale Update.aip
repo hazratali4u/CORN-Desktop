@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="17.3" version="17.3" Modules="update" RootPath="." Language="en" Id="{66CB0EB7-25B7-4E8B-BEB1-2777A46A6C74}">
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue_en.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Latest" Key="Name" Value="CORN Point of Sale 1.0.1"/>
+    <ROW Section="Latest" Key="ProductVersion" Value="1.0.1" ValueLocId="-"/>
+    <ROW Section="Latest" Key="URL" Value="http://download.cornpos.com/update/cornpos.exe" ValueLocId="-"/>
+    <ROW Section="Latest" Key="Size" Value="CORNPointOfSale - Release-SetupFiles\cornpos.exe" ValueLocId="-"/>
+    <ROW Section="Latest" Key="SHA256" Value="CORNPointOfSale - Release-SetupFiles\cornpos.exe" ValueLocId="-"/>
+    <ROW Section="Latest" Key="MD5" Value="CORNPointOfSale - Release-SetupFiles\cornpos.exe" ValueLocId="-"/>
+    <ROW Section="Latest" Key="ServerFileName" Value="cornpos.exe" ValueLocId="-"/>
+    <ROW Section="Latest" Key="RegistryKey" Value="HKUD\Software\Fast Services\CORN Point of Sale\Version" ValueLocId="-"/>
+    <ROW Section="Latest" Key="Version" Value="1.0.1" ValueLocId="-"/>
+    <ATTRIBUTE name="OutputFileName" value="updates.txt"/>
+    <ATTRIBUTE name="OutputFolder" value="CORNPointOfSale Release-SetupFiles"/>
+  </COMPONENT>
+</DOCUMENT>
